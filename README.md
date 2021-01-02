@@ -128,9 +128,9 @@ The notebooks are partially adapted from:
 
 - Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition) by Aurélien Géron
 
-- Dive into Deep Learning by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
+- Dive into Deep Learning by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola https://d2l.ai/
 
-- Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville https://www.deeplearningbook.org/
 
 - Introduction to Deep Learning at Carnegie Mellon University https://deeplearning.cs.cmu.edu/S21/index.html
 
