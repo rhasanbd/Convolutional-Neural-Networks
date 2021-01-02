@@ -11,9 +11,13 @@ These notebooks provide an introduction to the Convolutional Neural Networks (CN
 - Notebook 3: Convolution: Nuts & Bolts - II: 
   
     -- Handcraft edge detector filters
+    
     -- Edge detection in a single-channel image using a single filter
+    
     -- Define a convolution function for multi-channel image using and multiple filters
+    
     -- Edge detection in a multi-channel image using multiple filters
+    
     -- Edge detection using TensorFlow's convolution function
 
 The notebooks are partially adapted from
