@@ -134,6 +134,8 @@ The notebooks are partially adapted from:
 
 - Introduction to Deep Learning at Carnegie Mellon University https://deeplearning.cs.cmu.edu/S21/index.html
 
+- Deep Learning with Python by Francois Chollet
+
 
 
 
